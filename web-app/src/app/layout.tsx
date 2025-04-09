@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"], preload: false });
 export const metadata: Metadata = {
   title: "Chainlink Aggregator",
   description:
-    "A chainlink data ggregator that uses google generative AI to predict Market Sentiment",
+    "A chainlink data aggregator that uses google generative AI to predict Market Sentiment",
 };
 
 export default function RootLayout({
